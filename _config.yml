@@ -21,12 +21,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://chengbutang.com'
+url: 'https://youdingtian.com'
 baseurl: ''
-title: 'CHENGBUTANG'
-description: '成步堂专注正版模型玩具'
+title: 'YOUDINGTIAN'
+description: '有顶天正版模玩专注奥特曼周边'
 permalink: pretty
-logo: "https://img.alicdn.com/imgextra/i2/2710706468/O1CN01bF11cs1xeOUc1IXH1_!!2710706468.jpg"
+logo: "https://img.alicdn.com/imgextra/i1/2710706468/O1CN01NPHDHL1xeOUiOWCoa_!!2710706468.jpg"
 
 # Pagination
 paginate: 5
@@ -39,13 +39,13 @@ navigation_header:
 - title: 关于
   url: /about/
 - title: 联系
-  url: /about/
+  url: /contact/
 - title: 博客
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: 回到顶部↑Back to top
+- title: 返回顶部↑Back to top
   url: "#top"
 
 # Collections
@@ -53,8 +53,8 @@ collections:
   posts:
     title: 博客
     output: true
-    description: "请添加我们的微信ID：320 297 254 看我们的朋友圈"
-    feature_text: 
+    description: "感谢你关注我们的博客"
+    feature_text:
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
