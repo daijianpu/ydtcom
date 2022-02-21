@@ -1,5 +1,9 @@
 ---
-title: About this website
+title: 关于
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+有顶天
+成立于2017年4月中旬
+我们拜访日本供货商后开始运营
+从婴儿用品逐渐转型到模型玩具
+于2018年正式专注正版模玩
+淘宝搜店铺：有顶天正版模玩
