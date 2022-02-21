@@ -1,6 +1,5 @@
 ---
 title: 关于
-feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 有顶天
 成立于2017年4月中旬
