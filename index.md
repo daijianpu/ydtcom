@@ -1,8 +1,6 @@
 ---
-title: Welcome to my website
+title: 有顶天youdingtian.com
 feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+feature_text:
 ---
-
-There isn't much going on here yet, but watch this space
+我们正在填写相关资料。请稍等。。。
