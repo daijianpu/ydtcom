@@ -1,8 +1,7 @@
 ---
-title: Hello World
+title: 你好
 categories:
-- General
+- 小天
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+感谢你访问我们的网站，请你关注我们的微信和QQ获得更多的资讯。谢谢!
