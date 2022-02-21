@@ -6,3 +6,4 @@ title: 关于我们
 <p>我们拜访日本供货商后开始运营</p>
 <p>由于业务调整本店只做奥特曼周边</p>
 <p>淘宝搜店铺：有顶天正版模玩</p>
+<a href="https://youdingtian.com/contact/">联系我们</a>
