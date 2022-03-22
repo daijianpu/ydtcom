@@ -1,6 +1,6 @@
 ---
 title: 有顶天
-feature_image: "https://img.alicdn.com/imgextra/i1/2710706468/O1CN017uYy7h1xeOV4YMwuF_!!2710706468.jpg"
+feature_image: 
 feature_text:
 ---
 <p>很高兴你访问我们的网站，我们致力于为你提供正版的模型玩具。</p>
