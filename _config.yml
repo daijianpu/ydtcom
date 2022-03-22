@@ -53,9 +53,9 @@ collections:
   posts:
     title: 博客
     output: true
-    description: "请你添加我们的微信ID：320 297 252 留意我们朋友圈的更新"
+    description: "请添加我们的微信ID：320 297 252 留意朋友圈更新"
     feature_text: 
-    feature_image: "https://img.alicdn.com/imgextra/i1/2710706468/O1CN01EricuZ1xeOUgXsY8v_!!2710706468.jpg"
+    feature_image: 
 
 # Collection settings
 defaults:
