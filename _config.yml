@@ -55,7 +55,7 @@ collections:
     output: true
     description: "请添加我们的微信ID：320 297 252 留意朋友圈更新"
     feature_text: 
-    feature_image: 
+    feature_image: https://img.alicdn.com/imgextra/i1/2710706468/O1CN017uYy7h1xeOV4YMwuF_!!2710706468.jpg
 
 # Collection settings
 defaults:
