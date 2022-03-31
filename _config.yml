@@ -40,8 +40,8 @@ navigation_header:
   url: /about/
 - title: 联系
   url: /contact/
-- title: 博客
-  url: /blog/
+- title: 资讯
+  url: /info/
 
 # Footer nav
 navigation_footer:
